@@ -27,4 +27,16 @@
 
 ---
 
+### 🛠️ Skills
+
+<a href="https://icon-marquee.giann.dev/" title="AI, LLM & intelligent automation">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=chatgpt,claudeai,claudecode,deepseek,googlegemini,huggingface,ollama,langchain,llamaindex,crewai,aisdk,genkit,googleadk,cohere,groq,chroma,qdrant,weaviate,mlflow,pytorch,tensorflow,keras,scikitlearn,mcp&width=1000" alt="AI, LLM and Machine Learning skills" />
+</a>
+
+<a href="https://icon-marquee.giann.dev/" title="Python, data engineering, automation & web development">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=python,pandas,numpy,polars,sql,postgresql,mysql,mongodb,redis,sqlalchemy,airflow,apachespark,kafka,dbt,databricks,snowflake,clickhouse,duckdb,googlebigquery,amazons3,amazonwebservices,docker,kubernetes,terraform,linux,bash,git,github,gitlab,gitkraken,playwright,puppeteer,selenium,scrapy,regex,html,javascript,typescript,css,fastapi,django,flask,nodejs,celery,n8n,appium,postman,jupyter,pycharm,anaconda,sentry,grafana,prometheus&width=1000" alt="Development, Data Engineering and Automation skills" />
+</a>
+
+---
+
 <p align="center"><i>Open to interesting scraping, automation, and data-engineering problems 🚀</i></p>
