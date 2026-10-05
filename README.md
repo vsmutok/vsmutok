@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=180&section=header&text=Hi,%20I'm%20Vasyl%20Smutok👋&fontSize=38&fontAlignY=38&fontColor=ffffff&animation=fadeIn&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=180&section=header&text=Hi,%20I'm%20Vasyl%20Smutok&fontSize=38&fontAlignY=38&fontColor=ffffff&animation=fadeIn&descAlignY=58" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Automation+Engineer+%40+TrafficGate;Python+Mentor+%40+Mate+Academy;Backend+Volunteer+%40+Direct+Help;PhD+Candidate+%40+DonNTU;Building+ytscrape;Always+debugging+something+new;Slava+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Automating+the+internet%2C+one+script+at+a+time+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Scraping+at+scale;Automation+Engineer+%40+TrafficGate;Python+Mentor+%40+Mate+Academy;Backend+Volunteer+%40+Direct+Help;PhD+Candidate+%40+DonNTU;Building+ytscrape;Always+debugging+something+new;Automating+the+internet%2C+one+script+at+a+time+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,12 +28,12 @@
 
 ### 🛠️ Skills
 
-<a href="https://icon-marquee.giann.dev/" title="AI, LLM & intelligent automation">
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=chatgpt,claudeai,claudecode,deepseek,googlegemini,huggingface,ollama,langchain,llamaindex,crewai,aisdk,genkit,googleadk,cohere,groq,chroma,qdrant,weaviate,mlflow,pytorch,tensorflow,keras,scikitlearn,mcp&width=1000" alt="AI, LLM and Machine Learning skills" />
-</a>
-
 <a href="https://icon-marquee.giann.dev/" title="Python, data engineering, automation & web development">
   <img src="https://icon-marquee.giann.dev/v1/marquee?i=python,pandas,numpy,polars,sql,postgresql,mysql,mongodb,redis,sqlalchemy,airflow,apachespark,kafka,dbt,databricks,snowflake,clickhouse,duckdb,googlebigquery,amazons3,amazonwebservices,docker,kubernetes,terraform,linux,bash,git,github,gitlab,gitkraken,playwright,puppeteer,selenium,scrapy,regex,html,javascript,typescript,css,fastapi,django,flask,nodejs,celery,n8n,appium,postman,jupyter,pycharm,anaconda,sentry,grafana,prometheus&width=1000" alt="Development, Data Engineering and Automation skills" />
+</a>
+
+<a href="https://icon-marquee.giann.dev/" title="AI, LLM & intelligent automation">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=chatgpt,claudeai,claudecode,deepseek,googlegemini,huggingface,ollama,langchain,llamaindex,crewai,aisdk,genkit,googleadk,cohere,groq,chroma,qdrant,weaviate,mlflow,pytorch,tensorflow,keras,scikitlearn,mcp&width=1000" alt="AI, LLM and Machine Learning skills" />
 </a>
 
 ---
