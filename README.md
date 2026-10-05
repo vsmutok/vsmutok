@@ -21,8 +21,7 @@
 - 🤝 **Backend Developer (volunteer)** at **[Direct Help Foundation](https://directhelp.org.ua/en)** — building the backend for **[Veterun](https://veterun.team/uk)**, a platform that aggregates events, articles, and other resources for veterans and their families
 - 🎓 **PhD candidate** at **[DonNTU](https://vstup.donntu.edu.ua/?utm_source=donntu-site&utm_medium=digital&utm_campaign=vstup_2026&utm_content=header-menu)** — researching *Self-Healing Web Scraping* (adapting data-extraction systems to structural changes on the web)
 - 🧩 Maintainer of **[ytscrape](https://github.com/vsmutok/ytscrape)** — a free, API-key-free YouTube scraper built on the InnerTube API — and **[PuzzleCaptchaSolver](https://github.com/vsmutok/PuzzleCaptchaSolver)** — an OpenCV-based solver for puzzle CAPTCHAs like Geetest, Binance, DataDome, and TikTok
-- ♟️ Off the keyboard: chess, watching football, and hiking through mountains and forests
-- 🏋️ Regular at the gym — like keeping an eye on my activity and sleep stats
+♟️ In my free time, I enjoy playing chess, watching football, reading books, and staying active.
 - 🇺🇦 Based in Stryi, Lviv region, Ukraine
 
 ---
